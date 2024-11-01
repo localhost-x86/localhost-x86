@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,github,git" />
-    <img src="https://skillicons.dev/icons?i=linux,arch,rust,c,lua" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,vim,github,git,arch,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=py,rust,c,lua" /><br>
 </div>
 
 <br/>
