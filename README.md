@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a love2d project**
+ 🔭 I’m currently working on **an osdev project**
  
  🌱 I’m currently learning **C, Rust, Lua**
 
