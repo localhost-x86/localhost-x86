@@ -24,7 +24,7 @@
   <!-- a href="mailto:mail@gmail.com" -->
     <!-- img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"  / -->
   <!-- /a -->
-  <a href="https://x.com/SysKofte">
+  <a href="https://x.com/localhost_x86">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" />
   </a>
   <!-- a href="https://linkedin.com/in/localhost-x86" target="_blank" -->
